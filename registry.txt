@@ -1,0 +1,2 @@
+C:\Users\HTC\workspace\HashFunction\file\sa.txt C:\Users\HTC\workspace\HashFunction\file\hash_value_of_sa.txt
+C:\Users\HTC\workspace\HashFunction\file\deli\sa2.txt C:\Users\HTC\workspace\HashFunction\file\deli\hash_value_of_sa2.txt 
