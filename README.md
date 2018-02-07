@@ -5,7 +5,7 @@ We can use this methods in sending a secured message.
 
 First step -sender
 -----
-* Create Private key.
+* Create private key and public key pair.
 * İmplement hash function to data.
 * Sign hash value of data with private key.
 * Send the result and data.
